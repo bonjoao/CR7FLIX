@@ -1,5 +1,11 @@
 body {
-color: blue;
+color: rgb(0, 174, 255);
 background-color: black;
 margin: 0px;
+font-family: 'Chakra Peatch'
+}
+header {
+    padding: 20px;
+    font-size: 32px;
+    color: blue;
 }
